@@ -1,0 +1,86 @@
+https://github.com/ivanrguez1/notes-md.git
+https://github.com/BeatrizVaro/notable
+https://github.com/BeatrizVaro/notable.git
+cd Documentos
+git clone https://github.com/ivanrguez1/notes-md.git
+cd notes-md
+git status
+git add .
+git commit -m "001->2020-03-06a"
+git config --global user.email "vallado9696@gmail.com"
+.
+darle a flecha de arriba varias veces hasta que salga esto:
+git commit -m "001"
+
+¡¡¡¡¡¡¡¡¡Hacer en casa!!!!!!
+cd documentos
+git clone https://github.com/BeatrizVaro/notable.git
+cd notes-md
+git status
+git add .
+git commit -m "001: 2020-03-06a"
+git config --global user.email "vallado9696@gmail.com"
+git config --global user.name "BeatrizVaro"
+darle a flecha de arriba varias veces hasta que salga esto:
+git commit -m "001"
+
+
+
+Pasos:
+1) git clone
+	1b)git pull
+2) git status
+3) git add
+4) git commit
+5)git push
+
+git remote add notable
+git push notable-repo master
+BeatrizVaro
+contraseña
+git pull notable-repo master --aloww-unrelated-histories
+
+
+Pasos para subir a la nube:
+pc-> github
+1) git init
+2) git status
+3) git add
+4) git commit
+
+cuando no se ponga el git init porque no se cree una 
+carpeta nueva, se hace desde el paso 2 para abajo.
+
+¡¡A tener en cuenta!!
+cuando lo subas a la nube para descargar desde la nube al
+ordenador de mi casa se hace esto:
+b) github -> pc
+	clone/pull  (significa: clonar o descargar)
+pasos: de ejemplos
+1) 6/3 pc de clase
+crear el archivo a y lo subo a github los pasos anteriores
+2) 7/3 pc de casa 
+se hace un clone
+3) 9/3 pc de clase creo el archivo b y lo subo a github con
+pull
+4) 10/3 github lo paso al pc de casa y se hace un pull porque
+la conexion con github ya está hecha
+
+PARA LIMPIAR LA CONSOLA ES: CLEAR
+CUANDO UN ARCHIVO DA CONFLICTO SE CAMBIA A UNA CARPETA DE MÁS ARRIBA SE LE CAMBIA DE NOMBRE SE SIGUE
+SE MUEVE DE NUEVO A LA MISMA CARPETA Y SE TERMINA CON LOS 5 PASOS...
+DEBERES: LEER GIT.MD DE GITHUB
+YO TENGO QUE HACER EN CASA EL PUNTO 3 CON EL 4 
+EL 5 ES PARA EDITAR EL ARCHIVO...
+LA 6 ES PARA VOLVER ATRÁS CUANDO TE EQUIVOQUES CON ALGO...
+LA 7 NO HACE FALTA QUE DE MOMENTO SE HAGA EN CASA
+EL 8 SÍ HACERLO...!!
+9 PROBARLO
+Y EL 10 OPCIONAL PROGRAMA GRATUITO DE LA INTERFAZ git
+para borrar clear
+
+y reset para volver atras?
+
+
+
+
